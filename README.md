@@ -4,12 +4,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">지구를 생각하는 작은 마음 - 티끌 -</h3>
-  </p>
-</p>
-
-<br />
-<p align="center">
   <h3 align="center">2022-GDSC-KR-Winter-Hack - 대상 -</h3>
   </p>
 </p>
