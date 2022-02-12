@@ -8,6 +8,13 @@
   </p>
 </p>
 
+<br />
+<p align="center">
+  <h3 align="center">2022-GDSC-KR-Winter-Hack - 대상 -</h3>
+  </p>
+</p>
+
+
 <p align="center">
   <a target="_blank" href="https://github.com/GDSC-Hackaton-Team-CnB/BetaTest/raw/main/app-release.apk/app-release.apk">
     <h6 align="center">APK Download</h3>
