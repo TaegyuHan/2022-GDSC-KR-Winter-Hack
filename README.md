@@ -4,8 +4,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">2022-GDSC-KR-Winter-Hack - 대상 -</h3>
-  </p>
+   <a target="_blank" href="https://github.com/gdsckoreahackathon2022">
+      <h3 align="center">2022-GDSC-KR-Winter-Hack - 대상 -</h3>
+   </a>
 </p>
 
 
