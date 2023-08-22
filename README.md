@@ -55,7 +55,7 @@
 - [한태규](https://github.com/TaegyuHan) : Back-End, Design
     - APP 디자인
     - News 기사 Crawling
-    - Firebase 모델링 및, 데이터 관리
+    - Firebase 데이터 관리
 
 # 3. 기술 스택 및 Framework, Library <a name="content3"></a>
 
